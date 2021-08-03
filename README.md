@@ -36,4 +36,4 @@ MADNESS - One Step Beyon
 
 ## Creating a Spotify playlist from a Radioeins playlist
 
-Go to ![Spotlistr](https://www.spotlistr.com/search/textbox) and paste the Artist-Title list from above. HOWEVER, don't expect a great detection rate.
+Go to [Spotlistr](https://www.spotlistr.com/search/textbox) and paste the Artist-Title list from above. HOWEVER, don't expect a great detection rate.
